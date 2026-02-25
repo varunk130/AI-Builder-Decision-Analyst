@@ -152,8 +152,8 @@ Rules:
 
 ## License
 
-MIT — Use it, fork it, share it.
+MIT — Clone it, share it but not forking since continuously updated
 
 ---
 
-**Built by [Varun Kulkarni](https://www.linkedin.com/in/YOUR_LINKEDIN/) — AI Product Manager building tools that make PMs sharper, not lazier.**
+**Built by [Varun Kulkarni](https://www.linkedin.com/in/varun-kulkarni/) — AI Product Manager building tools that make PMs sharper, not lazier.**
