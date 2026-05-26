@@ -114,6 +114,8 @@ For major product decisions, run these in order:
 
 If your idea survives all 6, ship it with confidence.
 
+![Decision Framework](assets/05-Framework.png)
+
 ## How to Get the Most Out of It
 
 **Be specific in your input.** "We're building a dashboard" is weak. "We're building a self-serve analytics dashboard for SMB e-commerce brands who currently export CSV reports weekly and share them in Slack" is strong.
