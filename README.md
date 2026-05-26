@@ -62,25 +62,30 @@ The LEARN layer is what changed things for me. Log your decisions in the journal
 ### Option 1: Clone and use
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-builder-decision-analyst.git
-cd ai-builder-decision-analyst
+git clone https://github.com/varunk130/AI-Builder-Decision-Analyst.git
+cd AI-Builder-Decision-Analyst
 
-# Run any command
-claude "/project:assumption-check We're building a self-serve analytics dashboard for SMB customers"
+# Install the skills into your user-level Claude Code commands directory
+mkdir -p ~/.claude/commands
+cp skills/*.md ~/.claude/commands/
+
+# Then run any command from any project
+claude "/user:assumption-check We're building a self-serve analytics dashboard for SMB customers"
 ```
 
 ### Option 2: Add to an existing project
 
 ```bash
-cp -r ai-builder-decision-analyst/.claude/commands/* your-project/.claude/commands/
-cp ai-builder-decision-analyst/CLAUDE.md your-project/CLAUDE.md
-cp -r ai-builder-decision-analyst/templates/ your-project/templates/
+mkdir -p your-project/.claude/commands
+cp AI-Builder-Decision-Analyst/skills/*.md your-project/.claude/commands/
+cp -r AI-Builder-Decision-Analyst/templates/ your-project/templates/
 ```
 
 ### Option 3: User-level commands (available in all projects)
 
 ```bash
-cp -r ai-builder-decision-analyst/.claude/commands/* ~/.claude/commands/
+mkdir -p ~/.claude/commands
+cp AI-Builder-Decision-Analyst/skills/*.md ~/.claude/commands/
 # Now use /user:assumption-check from any project
 ```
 
