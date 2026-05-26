@@ -153,9 +153,13 @@ AI-Builder-Decision-Analyst/
 └── assets/                        # Carousel images
 ```
 
+---
+
 ## Contributing
 
-Reach out to Varun if you are interested in collaborating.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for scope, branch / PR flow, and the skill file format.
+
+---
 
 ## Related work
 
@@ -196,6 +200,8 @@ Part of a portfolio of AI agent and skill libraries for product, GTM, and decisi
 ## License
 
 MIT — see [LICENSE](LICENSE) for the full text.
+
+---
 
 ## Disclaimer
 
