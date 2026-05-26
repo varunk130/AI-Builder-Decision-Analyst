@@ -1,7 +1,6 @@
-| name | description |
-|------|-------------|
-| assumption-check | Surfaces the 5 riskiest untested assumptions in a feature or product bet, ranks them by risk, identifies the cheapest validation test for each, and produces a 3-day test plan for the single most dangerous assumption. Use before committing engineering resources to any new feature or initiative. |
-
+---
+name: assumption-check
+description: Surfaces the 5 riskiest untested assumptions in a feature or product bet, ranks them by risk, identifies the cheapest validation test for each, and produces a 3-day test plan for the single most dangerous assumption. Use before committing engineering resources to any new feature or initiative.
 ---
 
 # Assumption Check — Hidden Risk Surfacer

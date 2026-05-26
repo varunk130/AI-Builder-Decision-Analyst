@@ -1,7 +1,6 @@
-| name | description |
-|------|-------------|
-| portfolio-validation | Analyzes the anti-portfolio to produce a Product Instinct Scorecard. Grades instincts by category, identifies recurring thinking errors, maps signal blindness, and tracks whether instincts are improving or degrading over time. Use after logging 10+ career misses in the anti-portfolio. |
-
+---
+name: portfolio-validation
+description: Analyzes the anti-portfolio to produce a Product Instinct Scorecard. Grades instincts by category, identifies recurring thinking errors, maps signal blindness, and tracks whether instincts are improving or degrading over time. Use after logging 10+ career misses in the anti-portfolio.
 ---
 
 # Portfolio Validation — Product Instinct Scorecard

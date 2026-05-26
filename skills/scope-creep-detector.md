@@ -1,7 +1,6 @@
-| name | description |
-|------|-------------|
-| scope-creep-detector | Reads a PRD, spec, or project brief line by line and flags every sentence that will cause scope creep. Identifies hidden engineering work, estimates additional effort, and draws a clear V1 vs V2 scope line. Use before sharing any spec with engineering. |
-
+---
+name: scope-creep-detector
+description: Reads a PRD, spec, or project brief line by line and flags every sentence that will cause scope creep. Identifies hidden engineering work, estimates additional effort, and draws a clear V1 vs V2 scope line. Use before sharing any spec with engineering.
 ---
 
 # Scope Creep Detector — Hidden Work Finder

@@ -1,7 +1,6 @@
-| name | description |
-|------|-------------|
-| stakeholder-translator | Shows how 4 different executives will actually read your message — not how you intend it, but how each person's role and incentives filter it. Identifies the gap between intended and received message and provides specific fixes. Use before sending any proposal, update, or decision to leadership. |
-
+---
+name: stakeholder-translator
+description: Shows how 4 different executives will actually read your message — not how you intend it, but how each person's role and incentives filter it. Identifies the gap between intended and received message and provides specific fixes. Use before sending any proposal, update, or decision to leadership.
 ---
 
 # Stakeholder Translator — Message Perception Simulator

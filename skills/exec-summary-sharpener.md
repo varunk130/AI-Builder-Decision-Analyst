@@ -1,7 +1,6 @@
-| name | description |
-|------|-------------|
-| exec-summary-sharpener | Simulates how executives will actually read a document, identifies the 5 weakest points, and provides specific fixes without rewriting the document. Tests whether the doc passes the "so what?" test and forces the core message into one sentence. Use before sending any document to leadership. |
-
+---
+name: exec-summary-sharpener
+description: Simulates how executives will actually read a document, identifies the 5 weakest points, and provides specific fixes without rewriting the document. Tests whether the doc passes the "so what?" test and forces the core message into one sentence. Use before sending any document to leadership.
 ---
 
 # Exec Summary Sharpener — Leadership Document Tester

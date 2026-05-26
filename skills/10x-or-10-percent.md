@@ -1,7 +1,6 @@
-| name | description |
-|------|-------------|
-| 10x-or-10-percent | Forces clarity on whether a product bet is an incremental improvement or a transformative step-change. Evaluates across user behavior, market positioning, revenue ceiling, compound effects, and reversibility. Use when you need to calibrate investment level against actual bet size. |
-
+---
+name: 10x-or-10-percent
+description: Forces clarity on whether a product bet is an incremental improvement or a transformative step-change. Evaluates across user behavior, market positioning, revenue ceiling, compound effects, and reversibility. Use when you need to calibrate investment level against actual bet size.
 ---
 
 # 10x or 10% — Bet Size Calibrator

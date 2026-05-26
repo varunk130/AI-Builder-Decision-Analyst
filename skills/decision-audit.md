@@ -1,7 +1,6 @@
-| name | description |
-|------|-------------|
-| decision-audit | Analyzes the decision journal to produce a PM Decision Profile. Extracts patterns across optimization bias, influence vulnerability, confidence calibration, and blind spots. Produces a data-driven report with specific behavioral changes. Use after logging 15-20+ decisions in the decision journal. |
-
+---
+name: decision-audit
+description: Analyzes the decision journal to produce a PM Decision Profile. Extracts patterns across optimization bias, influence vulnerability, confidence calibration, and blind spots. Produces a data-driven report with specific behavioral changes. Use after logging 15-20+ decisions in the decision journal.
 ---
 
 # Decision Audit — Pattern and Bias Analyzer

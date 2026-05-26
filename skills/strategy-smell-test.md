@@ -1,7 +1,6 @@
-| name | description |
-|------|-------------|
-| strategy-smell-test | Applies 7 rigorous smell tests based on Richard Rumelt's framework to detect weak strategy disguised as good strategy. Grades the strategy A through D and forces it into a single sentence with a clear mechanism and trade-off. Use when evaluating any product, team, or company strategy document. |
-
+---
+name: strategy-smell-test
+description: Applies 7 rigorous smell tests based on Richard Rumelt's framework to detect weak strategy disguised as good strategy. Grades the strategy A through D and forces it into a single sentence with a clear mechanism and trade-off. Use when evaluating any product, team, or company strategy document.
 ---
 
 # Strategy Smell Test — Weak Strategy Detector

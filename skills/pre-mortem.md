@@ -1,7 +1,6 @@
-| name | description |
-|------|-------------|
-| pre-mortem | Writes a realistic failure post-mortem from 6 months in the future for any product, feature, or launch plan. Identifies the 3 warning signs you'll miss, the structural root cause, and sets specific checkpoints at weeks 2, 4, and 8. Use before any launch commitment. |
-
+---
+name: pre-mortem
+description: Writes a realistic failure post-mortem from 6 months in the future for any product, feature, or launch plan. Identifies the 3 warning signs you'll miss, the structural root cause, and sets specific checkpoints at weeks 2, 4, and 8. Use before any launch commitment.
 ---
 
 # Pre-Mortem — Future Failure Simulator

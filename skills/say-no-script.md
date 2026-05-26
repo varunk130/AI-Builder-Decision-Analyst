@@ -1,7 +1,6 @@
-| name | description |
-|------|-------------|
-| say-no-script | Generates 3 distinct pushback scripts for declining stakeholder requests while preserving relationships. First validates whether you should actually say no, then provides a redirect script, a data-based script, and a time-buy script. Use when you need to push back on a request from leadership or cross-functional partners. |
-
+---
+name: say-no-script
+description: Generates 3 distinct pushback scripts for declining stakeholder requests while preserving relationships. First validates whether you should actually say no, then provides a redirect script, a data-based script, and a time-buy script. Use when you need to push back on a request from leadership or cross-functional partners.
 ---
 
 # Say No Script — Stakeholder Pushback Generator

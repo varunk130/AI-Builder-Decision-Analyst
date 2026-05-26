@@ -1,7 +1,6 @@
-| name | description |
-|------|-------------|
-| downside-case | Builds the strongest possible case for NOT building a feature. Acts as a rigorous adversary, evaluating opportunity cost, complexity tax, demand signals, timing, and simpler alternatives. Use when you need a stress test before committing resources to any feature or initiative. |
-
+---
+name: downside-case
+description: Builds the strongest possible case for NOT building a feature. Acts as a rigorous adversary, evaluating opportunity cost, complexity tax, demand signals, timing, and simpler alternatives. Use when you need a stress test before committing resources to any feature or initiative.
 ---
 
 # Downside Case — Feature Kill Case Builder
