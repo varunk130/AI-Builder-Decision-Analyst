@@ -151,7 +151,7 @@ Reach out to Varun if you are interested in collaborating.
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE) for the full text.
 
 ## Disclaimer
 
