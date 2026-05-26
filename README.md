@@ -125,25 +125,24 @@ If your idea survives all 6, ship it with confidence.
 ## Repo Structure
 
 ```
-ai-builder-decision-analyst/
-├── CLAUDE.md                          # Claude Code context file
-├── .claude/
-│   └── commands/
-│       ├── assumption-check.md        # DECIDE layer
-│       ├── downside-case.md
-│       ├── 10x-or-10-percent.md
-│       ├── scope-creep-detector.md    # BUILD layer
-│       ├── pre-mortem.md
-│       ├── strategy-smell-test.md
-│       ├── stakeholder-translator.md  # COMMUNICATE layer
-│       ├── say-no-script.md
-│       ├── exec-summary-sharpener.md
-│       ├── decision-audit.md          # LEARN layer
-│       └── portfolio-validation.md
+AI-Builder-Decision-Analyst/
+├── README.md
+├── skills/
+│   ├── assumption-check.md        # DECIDE layer
+│   ├── downside-case.md
+│   ├── 10x-or-10-percent.md
+│   ├── scope-creep-detector.md    # BUILD layer
+│   ├── pre-mortem.md
+│   ├── strategy-smell-test.md
+│   ├── stakeholder-translator.md  # COMMUNICATE layer
+│   ├── say-no-script.md
+│   ├── exec-summary-sharpener.md
+│   ├── decision-audit.md          # LEARN layer
+│   └── portfolio-validation.md
 ├── templates/
-│   ├── decision-journal.md            # Log your decisions here
-│   └── anti-portfolio.md              # Log your misses here
-└── assets/                            # Carousel images
+│   ├── decision-journal.md        # Log your decisions here
+│   └── anti-portfolio.md          # Log your misses here
+└── assets/                        # Carousel images
 ```
 
 ## Contributing
