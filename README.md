@@ -1,4 +1,8 @@
-# AI Builder Decision Analyst
+<div align="center">
+
+# 🎯 AI Builder Decision Analyst
+
+### 11 Claude Code skills that catch bad bets before you ship, sharpen every decision, and compound your productivity and ROI over time.
 
 [![Skills](https://img.shields.io/badge/Skills-11-blue?style=for-the-badge)](#the-11-skills-across-four-layers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
@@ -6,7 +10,9 @@
 
 **Maintained by [Varun Kulkarni](https://github.com/varunk130)** · [Setup ↓](#setup-5-minutes) · [Skills ↓](#the-11-skills-across-four-layers) · [Decision Sequence ↓](#the-decision-sequence)
 
-**11 Claude Code skills that catch bad bets before you ship, sharpen every decision, and compound your productivity and ROI over time.**
+</div>
+
+---
 
 ![AI Builder Decision Analyst Overview](assets/02-Overview.png)
 
