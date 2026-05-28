@@ -167,7 +167,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for scope, branch / PR flow, and the skil
 
 ---
 
-## Related work
+## Related Work
 
 Part of a portfolio of AI agent and skill libraries for product, GTM, and decision-making teams.
 
