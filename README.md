@@ -101,6 +101,11 @@ cp AI-Builder-Decision-Analyst/skills/*.md ~/.claude/commands/
 # Now use /user:assumption-check from any project
 ```
 
+> 📝 **Slash-command prefix:** Claude Code namespaces commands by install location.
+> Use `/user:<command>` when installed at user level (Options 1 and 3) and
+> `/project:<command>` when installed at project level (Option 2). The command
+> tables below show the bare command name — pick the prefix that matches your install.
+
 ## How to Use the Decision Journal
 
 1. Open `templates/decision-journal.md`
