@@ -30,32 +30,32 @@ No app. No API. Markdown files in a folder.
 
 | # | Command | What It Does |
 |---|---------|-------------|
-| 1 | `/project:assumption-check` | Surface 5 ranked untested assumptions with cheapest validation tests |
-| 2 | `/project:downside-case` | Build the strongest possible case for NOT building a feature |
-| 3 | `/project:10x-or-10-percent` | Evaluate whether a bet is incremental improvement or transformative change |
+| 1 | `assumption-check` | Surface 5 ranked untested assumptions with cheapest validation tests |
+| 2 | `downside-case` | Build the strongest possible case for NOT building a feature |
+| 3 | `10x-or-10-percent` | Evaluate whether a bet is incremental improvement or transformative change |
 
 ### 🛠️ BUILD — Before you ship
 
 | # | Command | What It Does |
 |---|---------|-------------|
-| 4 | `/project:scope-creep-detector` | Flag every scope-expanding sentence in a PRD or spec |
-| 5 | `/project:pre-mortem` | Write a realistic failure post-mortem from 6 months in the future |
-| 6 | `/project:strategy-smell-test` | Apply 7 smell tests to detect weak strategy disguised as good strategy |
+| 4 | `scope-creep-detector` | Flag every scope-expanding sentence in a PRD or spec |
+| 5 | `pre-mortem` | Write a realistic failure post-mortem from 6 months in the future |
+| 6 | `strategy-smell-test` | Apply 7 smell tests to detect weak strategy disguised as good strategy |
 
 ### 🧠 COMMUNICATE — Before you present
 
 | # | Command | What It Does |
 |---|---------|-------------|
-| 7 | `/project:stakeholder-translator` | Show how 4 stakeholders will actually read your message |
-| 8 | `/project:say-no-script` | Generate 3 pushback scripts for stakeholder requests you need to decline |
-| 9 | `/project:exec-summary-sharpener` | Find weak spots in executive-facing documents without rewriting them |
+| 7 | `stakeholder-translator` | Show how 4 stakeholders will actually read your message |
+| 8 | `say-no-script` | Generate 3 pushback scripts for stakeholder requests you need to decline |
+| 9 | `exec-summary-sharpener` | Find weak spots in executive-facing documents without rewriting them |
 
 ### 🔁 LEARN — After you decide
 
 | # | Command | What It Does |
 |---|---------|-------------|
-| 10 | `/project:decision-audit` | Analyze your decision journal to reveal patterns, biases, and improvement areas |
-| 11 | `/project:portfolio-validation` | Grade your product instincts by analyzing bets you missed or got wrong |
+| 10 | `decision-audit` | Analyze your decision journal to reveal patterns, biases, and improvement areas |
+| 11 | `portfolio-validation` | Grade your product instincts by analyzing bets you missed or got wrong |
 
 ## The Decision Intelligence Report
 
