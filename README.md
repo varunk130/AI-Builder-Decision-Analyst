@@ -59,7 +59,7 @@ No app. No API. Markdown files in a folder.
 
 ## The Decision Intelligence Report
 
-The LEARN layer is what changed things for me. Log your decisions in the journal, run `/project:decision-audit`, and get a report showing where you optimize for speed when experimentation wins, where you skip structured evaluation, and where your confidence doesn't match your outcomes.
+The LEARN layer is what changed things for me. Log your decisions in the journal, run `decision-audit` (with the `/user:` or `/project:` prefix that matches your install), and get a report showing where you optimize for speed when experimentation wins, where you skip structured evaluation, and where your confidence doesn't match your outcomes.
 
 ![Decision Audit Output](assets/03-Decision-Audit.png)
 
@@ -110,7 +110,7 @@ cp AI-Builder-Decision-Analyst/skills/*.md ~/.claude/commands/
 
 1. Open `templates/decision-journal.md`
 2. Log each decision using the template format (takes ~2 minutes per entry)
-3. After 15-20 entries, run `/project:decision-audit`
+3. After 15-20 entries, run `decision-audit`
 4. Review your Decision Intelligence Report
 5. Run again in 90 days to track how your patterns shift
 
@@ -120,13 +120,15 @@ The journal captures: what you decided, what you rejected, what you optimized fo
 
 For major product decisions, run these in order:
 
+Use the prefix that matches your install (`/user:` for Options 1 and 3, `/project:` for Option 2):
+
 ```
-1. /project:assumption-check       → Find what you don't know
-2. /project:downside-case          → Stress-test the idea
-3. /project:10x-or-10-percent      → Clarify the bet size
-4. /project:scope-creep-detector   → Tighten the spec
-5. /project:pre-mortem             → Anticipate failure
-6. /project:strategy-smell-test    → Validate the strategy
+1. assumption-check       → Find what you don't know
+2. downside-case          → Stress-test the idea
+3. 10x-or-10-percent      → Clarify the bet size
+4. scope-creep-detector   → Tighten the spec
+5. pre-mortem             → Anticipate failure
+6. strategy-smell-test    → Validate the strategy
 ```
 
 If your idea survives all 6, ship it with confidence.
