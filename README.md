@@ -30,36 +30,36 @@ No app. No API. Markdown files in a folder.
 
 | # | Command | What It Does |
 |---|---------|-------------|
-| 1 | `/project:assumption-check` | Surface 5 ranked untested assumptions with cheapest validation tests |
-| 2 | `/project:downside-case` | Build the strongest possible case for NOT building a feature |
-| 3 | `/project:10x-or-10-percent` | Evaluate whether a bet is incremental improvement or transformative change |
+| 1 | `assumption-check` | Surface 5 ranked untested assumptions with cheapest validation tests |
+| 2 | `downside-case` | Build the strongest possible case for NOT building a feature |
+| 3 | `10x-or-10-percent` | Evaluate whether a bet is incremental improvement or transformative change |
 
 ### 🛠️ BUILD — Before you ship
 
 | # | Command | What It Does |
 |---|---------|-------------|
-| 4 | `/project:scope-creep-detector` | Flag every scope-expanding sentence in a PRD or spec |
-| 5 | `/project:pre-mortem` | Write a realistic failure post-mortem from 6 months in the future |
-| 6 | `/project:strategy-smell-test` | Apply 7 smell tests to detect weak strategy disguised as good strategy |
+| 4 | `scope-creep-detector` | Flag every scope-expanding sentence in a PRD or spec |
+| 5 | `pre-mortem` | Write a realistic failure post-mortem from 6 months in the future |
+| 6 | `strategy-smell-test` | Apply 7 smell tests to detect weak strategy disguised as good strategy |
 
 ### 🧠 COMMUNICATE — Before you present
 
 | # | Command | What It Does |
 |---|---------|-------------|
-| 7 | `/project:stakeholder-translator` | Show how 4 stakeholders will actually read your message |
-| 8 | `/project:say-no-script` | Generate 3 pushback scripts for stakeholder requests you need to decline |
-| 9 | `/project:exec-summary-sharpener` | Find weak spots in executive-facing documents without rewriting them |
+| 7 | `stakeholder-translator` | Show how 4 stakeholders will actually read your message |
+| 8 | `say-no-script` | Generate 3 pushback scripts for stakeholder requests you need to decline |
+| 9 | `exec-summary-sharpener` | Find weak spots in executive-facing documents without rewriting them |
 
 ### 🔁 LEARN — After you decide
 
 | # | Command | What It Does |
 |---|---------|-------------|
-| 10 | `/project:decision-audit` | Analyze your decision journal to reveal patterns, biases, and improvement areas |
-| 11 | `/project:portfolio-validation` | Grade your product instincts by analyzing bets you missed or got wrong |
+| 10 | `decision-audit` | Analyze your decision journal to reveal patterns, biases, and improvement areas |
+| 11 | `portfolio-validation` | Grade your product instincts by analyzing bets you missed or got wrong |
 
 ## The Decision Intelligence Report
 
-The LEARN layer is what changed things for me. Log your decisions in the journal, run `/project:decision-audit`, and get a report showing where you optimize for speed when experimentation wins, where you skip structured evaluation, and where your confidence doesn't match your outcomes.
+The LEARN layer is what changed things for me. Log your decisions in the journal, run `decision-audit` (with the `/user:` or `/project:` prefix that matches your install), and get a report showing where you optimize for speed when experimentation wins, where you skip structured evaluation, and where your confidence doesn't match your outcomes.
 
 ![Decision Audit Output](assets/03-Decision-Audit.png)
 
@@ -101,11 +101,16 @@ cp AI-Builder-Decision-Analyst/skills/*.md ~/.claude/commands/
 # Now use /user:assumption-check from any project
 ```
 
+> 📝 **Slash-command prefix:** Claude Code namespaces commands by install location.
+> Use `/user:<command>` when installed at user level (Options 1 and 3) and
+> `/project:<command>` when installed at project level (Option 2). The command
+> tables below show the bare command name — pick the prefix that matches your install.
+
 ## How to Use the Decision Journal
 
 1. Open `templates/decision-journal.md`
 2. Log each decision using the template format (takes ~2 minutes per entry)
-3. After 15-20 entries, run `/project:decision-audit`
+3. After 15-20 entries, run `decision-audit`
 4. Review your Decision Intelligence Report
 5. Run again in 90 days to track how your patterns shift
 
@@ -115,13 +120,15 @@ The journal captures: what you decided, what you rejected, what you optimized fo
 
 For major product decisions, run these in order:
 
+Use the prefix that matches your install (`/user:` for Options 1 and 3, `/project:` for Option 2):
+
 ```
-1. /project:assumption-check       → Find what you don't know
-2. /project:downside-case          → Stress-test the idea
-3. /project:10x-or-10-percent      → Clarify the bet size
-4. /project:scope-creep-detector   → Tighten the spec
-5. /project:pre-mortem             → Anticipate failure
-6. /project:strategy-smell-test    → Validate the strategy
+1. assumption-check       → Find what you don't know
+2. downside-case          → Stress-test the idea
+3. 10x-or-10-percent      → Clarify the bet size
+4. scope-creep-detector   → Tighten the spec
+5. pre-mortem             → Anticipate failure
+6. strategy-smell-test    → Validate the strategy
 ```
 
 If your idea survives all 6, ship it with confidence.
