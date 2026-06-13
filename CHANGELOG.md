@@ -12,7 +12,7 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 - Rewrote the Repo Structure tree to match the real layout (removed references to a fictional `CLAUDE.md` at root and a non-existent `.claude/commands/` folder).
 - Added the orphan `assets/05-Framework.png` to the Decision Sequence section so the shipped asset is actually rendered.
 - Linked the LICENSE file from the README License section.
-- Fixed capitalisation and tightened wording in the footer ("Ai Builders" → "AI builders").
+- Fixed capitalization and tightened wording in the footer ("Ai Builders" → "AI builders").
 
 ### Added
 
