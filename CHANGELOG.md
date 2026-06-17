@@ -8,6 +8,7 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 
 ### Documentation
 
+- Updated the ai-customer-discovery-skills status in Related Work (5 of 12 skills shipped).
 - Rewrote the Setup section so install commands point at the actual `skills/` directory (previous instructions referenced a `.claude/commands/` path that did not exist in the repo).
 - Rewrote the Repo Structure tree to match the real layout (removed references to a fictional `CLAUDE.md` at root and a non-existent `.claude/commands/` folder).
 - Added the orphan `assets/05-Framework.png` to the Decision Sequence section so the shipped asset is actually rendered.
