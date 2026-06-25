@@ -10,13 +10,13 @@ A set of 11 Claude Code skills organized around the four phases of a product dec
 
 - **Sharper prompts.** If a skill misses common cases, surfaces the wrong question, or produces fluffy output, tighten it.
 - **New skills** that fill a clear gap in one of the four phases and don't overlap with an existing skill. Prefer fewer, sharper skills over more, vaguer ones.
-- **Better templates.** The decision journal and anti-portfolio templates are example formats - improvements that make them faster to fill out are welcome.
+- **Better templates.** The decision journal and anti-portfolio templates are example formats — improvements that make them faster to fill out are welcome.
 - **Docs and examples.** README clarity, broken commands, missing context, install gotchas.
 
 ## What does not fit
 
 - New skills that overlap with an existing one. If a skill needs more capability, edit it.
-- Skills for general writing, coding, or non-decision-making tasks - this library is intentionally scoped to product decision-making.
+- Skills for general writing, coding, or non-decision-making tasks — this library is intentionally scoped to product decision-making.
 - Adding dependencies. The repo is intentionally markdown-only.
 
 ## How to contribute
@@ -55,4 +55,4 @@ Keep skill output structured (tables, ranked lists, explicit decisions) rather t
 
 ## Tone
 
-Direct. Opinionated. Backed by a clear reason. These are decision-making skills - hedging and "it depends" defeat the purpose.
+Direct. Opinionated. Backed by a clear reason. These are decision-making skills — hedging and "it depends" defeat the purpose.
