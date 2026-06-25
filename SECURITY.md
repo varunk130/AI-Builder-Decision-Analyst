@@ -1,6 +1,6 @@
 # Security Policy
 
-AI Builder Decision Analyst is a set of Markdown skills plus example templates. If you find a security issue - whether in the skill instructions, the decision-journal templates, or anything else that could lead a user to leak sensitive product data or credentials when following the guidance verbatim - please report it privately rather than opening a public issue.
+AI Builder Decision Analyst is a set of Markdown skills plus example templates. If you find a security issue — whether in the skill instructions, the decision-journal templates, or anything else that could lead a user to leak sensitive product data or credentials when following the guidance verbatim — please report it privately rather than opening a public issue.
 
 ## Reporting a vulnerability
 
@@ -34,8 +34,8 @@ In scope:
 Out of scope:
 
 - Findings that require the user to paste genuine production data or live customer information into the example templates
-- Issues in Claude Code itself or other upstream tools - please report those to the relevant project
-- Wording or style concerns - open a regular issue or pull request for those
+- Issues in Claude Code itself or other upstream tools — please report those to the relevant project
+- Wording or style concerns — open a regular issue or pull request for those
 
 ## Supported versions
 
