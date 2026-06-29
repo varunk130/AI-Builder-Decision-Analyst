@@ -8,6 +8,8 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 
 ### Documentation
 
+- Corrected the AI-Eval-Skills reference in Related Work to 7 skills (the upstream repo added the tool-use-eval skill).
+- Added the three Next.js multi-agent demos (Compound, Beacon, Atlas) to the Related Work section.
 - Updated the ai-customer-discovery-skills status in Related Work (5 of 12 skills shipped).
 - Rewrote the Setup section so install commands point at the actual `skills/` directory (previous instructions referenced a `.claude/commands/` path that did not exist in the repo).
 - Rewrote the Repo Structure tree to match the real layout (removed references to a fictional `CLAUDE.md` at root and a non-existent `.claude/commands/` folder).
