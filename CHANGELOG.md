@@ -8,6 +8,7 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 
 ### Documentation
 
+- Corrected the ai-ux-skill-library reference in Related Work to 13 frameworks and the ai-gtm-skill-library reference to 37 skills.
 - Corrected the AI-Eval-Skills reference in Related Work to 7 skills (the upstream repo added the tool-use-eval skill).
 - Added the three Next.js multi-agent demos (Compound, Beacon, Atlas) to the Related Work section.
 - Updated the ai-customer-discovery-skills status in Related Work (5 of 12 skills shipped).
@@ -19,6 +20,7 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 
 ### Added
 
+- `.editorconfig` and `.gitattributes` matching the other repositories.
 - `LICENSE` file with the MIT text (previously the README claimed MIT but no file existed).
 - `SECURITY.md` with a private vulnerability reporting channel.
 - `CONTRIBUTING.md` with skill format conventions, scope, and contribution flow.
