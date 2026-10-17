@@ -31,7 +31,7 @@ Create a table:
 
 ### Section 2: Optimization Bias
 
-Rank what the PM most frequently optimizes for (speed, revenue, user experience, focus, risk reduction, etc). Compare: which optimization axis has the BEST outcome track record vs which is used MOST? If there's a gap, that's the key insight.
+Rank what the PM most frequently optimizes for (speed, revenue, user experience, focus, risk reduction, etc.). Compare: which optimization axis has the BEST outcome track record vs which is used MOST? If there's a gap, that's the key insight.
 
 ### Section 3: Influence Vulnerability
 
