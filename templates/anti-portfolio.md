@@ -1,6 +1,6 @@
 # The Anti-Portfolio
 
-Your record of product bets you didn't make, features you killed too early, and ideas you got wrong. After 10+ entries, run /project:anti-portfolio-analysis to find your patterns.
+Your record of product bets you didn't make, features you killed too early, and ideas you got wrong. After 10+ entries, run /project:portfolio-validation to find your patterns.
 
 ---
 
