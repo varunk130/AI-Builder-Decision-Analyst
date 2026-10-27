@@ -17,7 +17,7 @@ A set of 11 Claude Code skills organized around the four phases of a product dec
 
 - New skills that overlap with an existing one. If a skill needs more capability, edit it.
 - Skills for general writing, coding, or non-decision-making tasks — this library is intentionally scoped to product decision-making.
-- Adding dependencies. The repo is intentionally markdown-only.
+- Adding dependencies. The repo is intentionally Markdown-only.
 
 ## How to contribute
 
