@@ -17,7 +17,7 @@ Before scripting the no, validate:
 
 | Check | Question |
 |-------|----------|
-| **Signal Check** | Is the requestor seeing something you're not? |
+| **Signal Check** | Is the requester seeing something you're not? |
 | **Political Check** | Is this battle worth fighting politically? |
 | **Compromise Check** | Is there a version of yes that works? |
 
