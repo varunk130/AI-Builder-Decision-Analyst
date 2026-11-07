@@ -8,6 +8,8 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 
 ### Documentation
 
+- Used the standard spelling "requester" in the say-no script.
+- Capitalized Markdown in the contributing guide.
 - Corrected the ai-ux-skill-library reference in Related Work to 13 frameworks and the ai-gtm-skill-library reference to 37 skills.
 - Corrected the AI-Eval-Skills reference in Related Work to 7 skills (the upstream repo added the tool-use-eval skill).
 - Added the three Next.js multi-agent demos (Compound, Beacon, Atlas) to the Related Work section.
